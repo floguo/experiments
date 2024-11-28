@@ -1,8 +1,10 @@
-# React + Vite
+# experiments
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+playing with pixels: a space to test, iterate, and refine concepts in code.
 
-Currently, two official plugins are available:
+## structure
+experiments are housed in the src/ directory. each has its own folder and can be run independently.
+<br>the current featured experiment is wired into the main app for ease of viewing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ongoing experiments
+	1. Marquee: A grid-based animation exploring React’s state and Tailwind utilities.
